@@ -217,3 +217,26 @@ input[type=submit] {
 }
 
 
+/* media queries */
+
+@media screen and (max-width: 980px;) {
+.main-section {
+  padding-right: 30%;
+}
+}
+
+
+
+
+
+@media screen and (max-width: 768px) {
+
+}
+
+
+
+
+
+@media screen and (max-width: 640px) {
+}
+
