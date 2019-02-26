@@ -220,14 +220,19 @@ input[type=submit] {
 /* media queries */
 
 @media screen and (max-width: 980px) {
-.main-section {
-width: 70%;
-}
 nav {
-  /* width: 100%; */
-}
+ margin-right: 5%;
 }
 
+.main-section {
+  width: 70%;
+  margin-left: 35px;
+}
+
+#logo {
+  margin-left: 35px;
+  font-size: 24px;
+}
 
 
 
